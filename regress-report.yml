@@ -132,7 +132,7 @@ test-cases:
     status: fail
 
 bugreports:
-  -summary: |
+  - summary: |
     Искажены изображения товаров в каталоге, растянуты по вертикали
   environment: |
     Google Chrome 137.0.7151.69 (Официальная сборка) (64 бит)
